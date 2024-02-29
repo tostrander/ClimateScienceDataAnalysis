@@ -1,0 +1,732 @@
+category,prizeAmount,prizeAmountAdjusted2019,award_year,name,gender,birth_date,birth_continent,birth_country,death_date,death_continent,death_country
+Literature,208629,2697789,1957,Albert Camus,male,1913-11-07,Africa,Algeria,1960-01-04,Europe,France
+Literature,400000,3177966,1970,Alexandr Solzhenitsyn,male,1918-12-11,Europe,Russia,2008-08-03,Europe,Russia
+Literature,8000000,8365867,2013,Alice Munro,female,1931-07-10,North America,Canada,,,
+Literature,121573,2532771,1921,Anatole France,male,1844-04-16,Europe,France,1924-10-12,Europe,France
+Literature,146115,2914528,1947,André Gide,male,1869-11-22,Europe,France,1951-02-19,Europe,France
+Literature,164304,3050198,1950,Bertrand Russell,male,1872-05-18,Europe,United Kingdom,1970-02-02,Europe,United Kingdom
+Literature,141358,7795478,1903,Bjørnstjerne Bjørnson,male,1832-12-08,Europe,Norway,1910-04-26,Europe,France
+Literature,8000000,8301051,2016,Bob Dylan,male,1941-05-24,North America,USA,,,
+Literature,3000000,5242311,1989,Camilo José Cela,male,1916-05-11,Europe,Spain,2002-01-17,Europe,Spain
+Literature,133127,2377268,1919,Carl Spitteler,male,1845-04-24,Europe,Switzerland,1924-12-29,Europe,Switzerland
+Literature,1800000,3843964,1985,Claude Simon,male,1913-10-10,Africa,Madagascar,2005-07-06,Europe,France
+Literature,880000,2889667,1980,Czeslaw Milosz,male,1911-06-30,Europe,Lithuania,2004-08-14,Europe,Poland
+Literature,7500000,9572839,1997,Dario Fo,male,1926-03-24,Europe,Italy,2016-10-13,Europe,Italy
+Literature,6500000,9184250,1992,Derek Walcott,male,1930-01-23,North America,Saint Lucia,2017-03-17,North America,Saint Lucia
+Literature,10000000,11301989,2007,Doris Lessing,female,1919-10-22,Asia,Iran,2013-11-17,Europe,United Kingdom
+Literature,10000000,11762861,2004,Elfriede Jelinek,female,1946-10-20,Europe,Austria,,,
+Literature,1000000,2929688,1981,Elias Canetti,male,1905-07-25,Europe,Bulgaria,1994-08-14,Europe,Switzerland
+Literature,173206,5238085,1931,Erik Axel Karlfeldt,male,1864-07-20,Europe,Sweden,1931-04-08,Europe,Sweden
+Literature,181647,2640218,1954,Ernest Hemingway,male,1899-07-21,North America,USA,1961-07-02,North America,USA
+Literature,159850,4913422,1936,Eugene O'Neill,male,1888-10-16,North America,USA,1953-11-27,North America,USA
+Literature,630000,3404179,1975,Eugenio Montale,male,1896-10-12,Europe,Italy,1981-09-12,Europe,Italy
+Literature,550000,3263449,1974,Eyvind Johnson,male,1900-07-29,Europe,Sweden,1976-08-25,Europe,Sweden
+Literature,171135,2546652,1952,François Mauriac,male,1885-10-11,Europe,France,1970-09-01,Europe,France
+Literature,148822,4227898,1939,Frans Eemil Sillanpää,male,1888-09-16,Europe,Finland,1964-06-03,Europe,Finland
+Literature,140859,7767960,1904,Frédéric Mistral,male,1830-09-08,Europe,France,1914-03-25,Europe,France
+Literature,1150000,3102518,1982,Gabriel García Márquez,male,1927-03-06,South America,Colombia,2014-04-17,North America,Mexico
+Literature,121333,2499993,1945,Gabriela Mistral,female,1889-04-07,South America,Chile,1957-01-10,North America,USA
+Literature,9000000,11333109,2000,Gao Xingjian,male,1940-01-04,Asia,China,,,
+Literature,118165,3211005,1925,George Bernard Shaw,male,1856-07-26,Europe,Ireland,1950-11-02,Europe,United Kingdom
+Literature,140476,6753654,1912,Gerhart Hauptmann,male,1862-11-15,Europe,Poland,1946-06-06,Europe,Poland
+Literature,265000,2839286,1963,Giorgos Seferis,male,1900-03-13,Asia,Turkey,1971-09-20,Europe,Greece
+Literature,138536,7421571,1906,Giosuè Carducci,male,1835-07-27,Europe,Italy,1907-02-16,Europe,Italy
+Literature,116960,3273134,1926,Grazia Deledda,female,1871-09-27,Europe,Italy,1936-08-15,Europe,Italy
+Literature,7900000,10049186,1999,Günter Grass,male,1927-10-16,Europe,Poland,2015-04-13,Europe,Germany
+Literature,190214,2681588,1955,Halldór Laxness,male,1902-04-23,Europe,Iceland,1998-02-08,Europe,Iceland
+Literature,10000000,11711430,2005,Harold Pinter,male,1930-10-10,Europe,United Kingdom,2008-12-24,Europe,United Kingdom
+Literature,550000,3263449,1974,Harry Martinson,male,1904-05-06,Europe,Sweden,1978-02-11,Europe,Sweden
+Literature,480000,3345725,1972,Heinrich Böll,male,1917-12-21,Europe,Germany,1985-07-16,Europe,Germany
+Literature,126501,3593778,1927,Henri Bergson,male,1859-10-18,Europe,France,1941-01-04,Europe,France
+Literature,133823,3920596,1917,Henrik Pontoppidan,male,1857-07-24,Europe,Denmark,1943-08-21,Europe,Denmark
+Literature,138089,7615202,1905,Henryk Sienkiewicz,male,1846-05-05,Europe,Poland,1916-11-15,Europe,Switzerland
+Literature,121524,2503929,1946,Hermann Hesse,male,1877-07-02,Europe,Germany,1962-08-09,Europe,Switzerland
+Literature,10000000,10958504,2009,Herta Müller,female,1953-08-17,Europe,Romania,,,
+Literature,10000000,12034660,2002,Imre Kertész,male,1929-11-09,Europe,Hungary,2016-03-31,Europe,Hungary
+Literature,725000,2898454,1978,Isaac Bashevis Singer,male,1904-07-14,Europe,Poland,1991-07-24,North America,USA
+Literature,170332,5413093,1933,Ivan Bunin,male,1870-10-22,Europe,Russia,1953-11-08,Europe,France
+Literature,250233,2878447,1961,Ivo Andric,male,1892-10-10,Europe,Bosnia and Herzegovina,1975-03-13,Europe,Serbia
+Literature,10000000,11807305,2003,J. M. Coetzee,male,1940-02-09,Africa,South Africa,,,
+Literature,122483,3145967,1922,Jacinto Benavente,male,1866-08-12,Europe,Spain,1954-07-14,Europe,Spain
+Literature,1650000,3782090,1984,Jaroslav Seifert,male,1901-09-23,Europe,Czech Republic,1986-01-10,Europe,Czech Republic
+Literature,10000000,10926573,2008,Jean-Marie Gustave Le Clézio,male,1940-04-13,Europe,France,,,
+Literature,273000,2828039,1964,Jean-Paul Sartre,male,1905-06-21,Europe,France,1980-04-15,Europe,France
+Literature,121841,2510460,1944,Johannes V. Jensen,male,1873-01-20,Europe,Denmark,1950-11-25,Europe,Denmark
+Literature,171753,5279293,1932,John Galsworthy,male,1867-08-14,Europe,United Kingdom,1933-01-31,Europe,United Kingdom
+Literature,257220,2836985,1962,John Steinbeck,male,1902-02-27,North America,USA,1968-12-20,North America,USA
+Literature,140859,7767960,1904,José Echegaray,male,1832-04-19,Europe,Spain,1916-09-04,Europe,Spain
+Literature,7600000,9713701,1998,José Saramago,male,1922-11-16,Europe,Portugal,2010-06-18,Europe,Spain
+Literature,2175000,4274764,1987,Joseph Brodsky,male,1940-05-24,Europe,Russia,1996-01-28,North America,USA
+Literature,200123,2699501,1956,Juan Ramón Jiménez,male,1881-12-24,Europe,Spain,1958-05-29,North America,Puerto Rico
+Literature,133823,3920596,1917,Karl Gjellerup,male,1857-06-02,Europe,Denmark,1919-10-11,Europe,Germany
+Literature,9000000,9176183,2017,Kazuo Ishiguro,male,1954-11-08,Asia,Japan,,,
+Literature,7000000,9249471,1994,Kenzaburo Oe,male,1935-01-31,Asia,Japan,,,
+Literature,134100,2394643,1920,Knut Hamsun,male,1859-08-04,Europe,Norway,1952-02-19,Europe,Norway
+Literature,162608,5167627,1934,Luigi Pirandello,male,1867-06-28,Europe,Italy,1936-12-10,Europe,Italy
+Literature,10000000,10819388,2010,Mario Vargas Llosa,male,1936-03-28,South America,Peru,,,
+Literature,140695,7327865,1911,Maurice Maeterlinck,male,1862-08-29,Europe,Belgium,1949-05-06,Europe,France
+Literature,320000,2843602,1967,Miguel Angel Asturias,male,1899-10-19,North America,Guatemala,1974-06-09,Europe,Spain
+Literature,282000,2782895,1965,Mikhail Sholokhov,male,1905-05-24,Europe,Russia,1984-02-21,Europe,Russia
+Literature,8000000,8361204,2012,Mo Yan,male,1955-02-02,Asia,China,,,
+Literature,6000000,8673863,1991,Nadine Gordimer,female,1923-11-20,Africa,South Africa,2014-07-13,Africa,South Africa
+Literature,2500000,4645689,1988,Naguib Mahfouz,male,1911-12-11,Africa,Egypt,2006-08-30,Africa,Egypt
+Literature,300000,2784653,1966,Nelly Sachs,female,1891-12-10,Europe,Germany,1970-05-12,Europe,Sweden
+Literature,4000000,6329114,1990,Octavio Paz,male,1914-03-31,North America,Mexico,1998-04-19,North America,Mexico
+Literature,800000,2988048,1979,Odysseus Elytis,male,1911-11-02,Europe,Greece,1996-03-18,Europe,Greece
+Literature,9000000,9000000,2018,Olga Tokarczuk,female,1962-01-29,Europe,Poland,,,
+Literature,10000000,11552680,2006,Orhan Pamuk,male,1952-06-07,Asia,Turkey,,,
+Literature,450000,3321850,1971,Pablo Neruda,male,1904-07-12,South America,Chile,1973-09-23,South America,Chile
+Literature,167612,2686090,1951,Pär Lagerkvist,male,1891-05-23,Europe,Sweden,1974-07-11,Europe,Sweden
+Literature,8000000,8379888,2014,Patrick Modiano,male,1945-07-30,Europe,France,,,
+Literature,510000,3331882,1973,Patrick White,male,1912-05-28,Europe,United Kingdom,1990-09-30,Oceania,Australia
+Literature,140703,7130220,1910,Paul Heyse,male,1830-03-15,Europe,Germany,1914-04-02,Europe,Germany
+Literature,155077,4543271,1938,Pearl Buck,female,1892-06-26,North America,USA,1973-03-06,North America,USA
+Literature,9000000,9000000,2019,Peter Handke,male,1942-12-06,Europe,Austria,,,
+Literature,143010,6875481,1913,Rabindranath Tagore,male,1861-05-07,Asia,India,1941-08-07,Asia,India
+Literature,158463,4716161,1937,Roger Martin du Gard,male,1881-03-23,Europe,France,1958-08-22,Europe,France
+Literature,149223,6217625,1915,Romain Rolland,male,1866-01-29,Europe,France,1944-12-30,Europe,France
+Literature,139800,7084459,1908,Rudolf Eucken,male,1846-01-05,Europe,Germany,1926-09-14,Europe,Germany
+Literature,138796,7033581,1907,Rudyard Kipling,male,1865-12-30,Asia,India,1936-01-18,Europe,United Kingdom
+Literature,225987,2664941,1960,Saint-John Perse,male,1887-05-31,North America,Guadeloupe Island,1975-09-20,Europe,France
+Literature,220678,2704387,1959,Salvatore Quasimodo,male,1901-08-20,Europe,Italy,1968-06-14,Europe,Italy
+Literature,375000,3181561,1969,Samuel Beckett,male,1906-04-13,Europe,Ireland,1989-12-22,Europe,France
+Literature,681000,3342605,1976,Saul Bellow,male,1915-06-10,North America,Canada,2005-04-05,North America,USA
+Literature,7200000,9278351,1995,Seamus Heaney,male,1939-04-13,Europe,Northern Ireland,2013-08-30,Europe,Ireland
+Literature,139800,7084459,1909,Selma Lagerlöf,female,1858-11-20,Europe,Sweden,1940-03-16,Europe,Sweden
+Literature,300000,2784653,1966,Shmuel Agnon,male,1888-07-17,Europe,Ukraine,1970-02-17,Asia,Israel
+Literature,156939,4458494,1928,Sigrid Undset,female,1882-05-20,Europe,Denmark,1949-06-10,Europe,Norway
+Literature,172947,5066807,1930,Sinclair Lewis,male,1885-02-07,North America,USA,1951-01-10,Europe,Italy
+Literature,150782,8567159,1901,Sully Prudhomme,male,1839-03-16,Europe,France,1907-09-07,Europe,France
+Literature,8000000,8384572,2015,Svetlana Alexievich,female,1948-05-31,Europe,Ukraine,,,
+Literature,159773,3056881,1948,T.S. Eliot,male,1888-09-26,North America,USA,1965-01-04,Europe,United Kingdom
+Literature,141847,8059489,1902,Theodor Mommsen,male,1817-11-30,Europe,Germany,1903-11-01,Europe,Germany
+Literature,172760,4907955,1929,Thomas Mann,male,1875-06-06,Europe,Germany,1955-08-12,Europe,Switzerland
+Literature,10000000,10545557,2011,Tomas Tranströmer,male,1931-04-15,Europe,Sweden,2015-03-26,Europe,Sweden
+Literature,6700000,9044276,1993,Toni Morrison,female,1931-02-18,North America,USA,2019-08-05,North America,USA
+Literature,10000000,12295082,2001,V. S. Naipaul,male,1932-08-17,North America,Trinidad and Tobago,2018-08-11,Europe,United Kingdom
+Literature,131793,4845331,1916,Verner von Heidenstam,male,1859-07-06,Europe,Sweden,1940-05-20,Europe,Sweden
+Literature,700000,3080986,1977,Vicente Aleixandre,male,1898-04-26,Europe,Spain,1984-12-14,Europe,Spain
+Literature,114935,3169164,1923,William Butler Yeats,male,1865-06-13,Europe,Ireland,1939-01-28,Europe,France
+Literature,156290,2930438,1949,William Faulkner,male,1897-09-25,North America,USA,1962-07-06,North America,USA
+Literature,1500000,3715324,1983,William Golding,male,1911-09-19,Europe,United Kingdom,1993-06-19,Europe,United Kingdom
+Literature,175293,2567769,1953,Winston Churchill,male,1874-11-30,Europe,United Kingdom,1965-01-24,Europe,United Kingdom
+Literature,7400000,9490424,1996,Wislawa Szymborska,female,1923-07-02,Europe,Poland,2012-02-01,Europe,Poland
+Literature,116719,3218355,1924,Wladyslaw Reymont,male,1867-05-07,Europe,Poland,1925-12-05,Europe,Poland
+Literature,2000000,4098361,1986,Wole Soyinka,male,1934-07-13,Africa,Nigeria,,,
+Literature,350000,3052326,1968,Yasunari Kawabata,male,1899-06-11,Asia,Japan,1972-04-16,Asia,Japan
+Chemistry,10000000,11762861,2004,Aaron Ciechanover,male,1947-10-01,Asia,Israel,,,
+Chemistry,1150000,3102518,1982,Aaron Klug,male,1926-08-11,Europe,Lithuania,2018-11-20,,
+Chemistry,10000000,10958504,2009,Ada E. Yonath,female,1939-06-22,Asia,Israel,,,
+Chemistry,148822,4227898,1939,Adolf Butenandt,male,1903-03-24,Europe,Germany,1995-01-18,Europe,Germany
+Chemistry,138089,7615202,1905,Adolf von Baeyer,male,1835-10-31,Europe,Germany,1917-08-20,Europe,Germany
+Chemistry,156939,4458494,1928,Adolf Windaus,male,1876-12-25,Europe,Germany,1959-06-09,Europe,Germany
+Chemistry,7900000,10049186,1999,Ahmed Zewail,male,1946-02-26,Africa,Egypt,2016-08-02,North America,USA
+Chemistry,10000000,10819388,2010,Akira Suzuki,male,1930-09-12,Asia,Japan,,,
+Chemistry,9000000,9000000,2019,Akira Yoshino,male,1948-01-30,Asia,Japan,,,
+Chemistry,9000000,11333109,2000,Alan Heeger,male,1936-01-22,North America,USA,,,
+Chemistry,9000000,11333109,2000,Alan MacDiarmid,male,1927-04-14,Oceania,New Zealand,2007-02-07,North America,USA
+Chemistry,143010,6875481,1913,Alfred Werner,male,1866-12-12,Europe,France,1919-11-15,Europe,Switzerland
+Chemistry,171135,2546652,1952,Archer J.P. Martin,male,1910-03-01,Europe,United Kingdom,2002-07-28,Europe,United Kingdom
+Chemistry,8000000,8365867,2013,Arieh Warshel,male,1940-11-20,Asia,Israel,,,
+Chemistry,159773,3056881,1948,Arne Tiselius,male,1902-08-10,Europe,Sweden,1971-10-29,Europe,Sweden
+Chemistry,172760,4907955,1929,Arthur Harden,male,1865-10-12,Europe,United Kingdom,1940-06-17,Europe,United Kingdom
+Chemistry,121333,2499993,1945,Artturi Virtanen,male,1895-01-15,Europe,Finland,1973-11-11,Europe,Finland
+Chemistry,10000000,11762861,2004,Avram Hershko,male,1937-12-31,Europe,Hungary,,,
+Chemistry,8000000,8384572,2015,Aziz Sancar,male,1946-09-08,Asia,Turkey,,,
+Chemistry,10000000,12295082,2001,Barry Sharpless,male,1941-04-28,North America,USA,,,
+Chemistry,8000000,8301051,2016,Bernard L. Feringa,male,1951-05-18,Europe,the Netherlands,,,
+Chemistry,8000000,8361204,2012,Brian Kobilka,male,1955-05-30,North America,USA,,,
+Chemistry,1650000,3782090,1984,Bruce Merrifield,male,1921-07-15,North America,USA,2006-05-14,North America,USA
+Chemistry,173206,5238085,1931,Carl Bosch,male,1874-08-27,Europe,Germany,1940-04-26,Europe,Germany
+Chemistry,2175000,4274764,1987,Charles J. Pedersen,male,1904-10-03,Asia,South Korea,1989-10-26,North America,USA
+Chemistry,480000,3345725,1972,Christian Anfinsen,male,1916-03-26,North America,USA,1995-05-14,North America,USA
+Chemistry,10000000,10545557,2011,Dan Shechtman,male,1941-01-24,Asia,Israel,,,
+Chemistry,375000,3181561,1969,Derek Barton,male,1918-09-08,Europe,United Kingdom,1998-03-16,North America,USA
+Chemistry,2175000,4274764,1987,Donald J. Cram,male,1919-04-22,North America,USA,2001-06-17,North America,USA
+Chemistry,273000,2828039,1964,Dorothy Crowfoot Hodgkin,female,1910-05-12,Africa,Egypt,1994-07-29,Europe,United Kingdom
+Chemistry,2000000,4098361,1986,Dudley R. Herschbach,male,1932-06-18,North America,USA,,,
+Chemistry,138796,7033581,1907,Eduard Buchner,male,1860-05-20,Europe,Germany,1917-08-13,Europe,Romania
+Chemistry,167612,2686090,1951,Edwin M. McMillan,male,1907-09-18,North America,USA,1991-09-07,North America,USA
+Chemistry,10000000,10819388,2010,Ei-ichi Negishi,male,1935-07-14,Asia,China,,,
+Chemistry,4000000,6329114,1990,Elias James Corey,male,1928-07-12,North America,USA,,,
+Chemistry,141847,8059489,1902,Emil Fischer,male,1852-10-09,Europe,Germany,1919-07-15,Europe,Germany
+Chemistry,8000000,8379888,2014,Eric Betzig,male,1960-01-13,North America,USA,,,
+Chemistry,139800,7084459,1908,Ernest Rutherford,male,1871-08-30,Oceania,New Zealand,1937-10-19,Europe,United Kingdom
+Chemistry,510000,3331882,1973,Ernst Otto Fischer,male,1918-11-10,Europe,Germany,2007-07-23,Europe,Germany
+Chemistry,7200000,9278351,1995,F. Sherwood Rowland,male,1927-06-28,North America,USA,2012-03-10,North America,USA
+Chemistry,9000000,9000000,2018,Frances H. Arnold,female,1956-07-25,North America,USA,,,
+Chemistry,122483,3145967,1922,Francis W. Aston,male,1877-09-01,Europe,United Kingdom,1945-11-20,Europe,United Kingdom
+Chemistry,159917,4997406,1935,Frédéric Joliot,male,1900-03-19,Europe,France,1958-08-14,Europe,France
+Chemistry,214559,2646698,1958,Frederick Sanger,male,1918-08-13,Europe,United Kingdom,2013-11-19,Europe,United Kingdom
+Chemistry,121573,2532771,1921,Frederick Soddy,male,1877-09-02,Europe,United Kingdom,1956-09-22,Europe,United Kingdom
+Chemistry,173206,5238085,1931,Friedrich Bergius,male,1884-10-11,Europe,Poland,1949-03-30,South America,Argentina
+Chemistry,138198,2847486,1918,Fritz Haber,male,1868-12-09,Europe,Poland,1934-01-29,Europe,Switzerland
+Chemistry,114935,3169164,1923,Fritz Pregl,male,1869-09-03,Europe,Slovenia,1930-12-13,Europe,Austria
+Chemistry,510000,3331882,1973,Geoffrey Wilkinson,male,1921-07-14,Europe,United Kingdom,1996-09-26,Europe,United Kingdom
+Chemistry,800000,2988048,1979,Georg Wittig,male,1897-06-16,Europe,Germany,1987-08-26,Europe,Germany
+Chemistry,7000000,9249471,1994,George A. Olah,male,1927-05-22,Europe,Hungary,2017-03-08,North America,USA
+Chemistry,123691,2520876,1943,George de Hevesy,male,1885-08-01,Europe,Hungary,1966-07-05,Europe,Germany
+Chemistry,9000000,9000000,2018,George P. Smith,male,1941-03-10,North America,USA,,,
+Chemistry,320000,2843602,1967,George Porter,male,1920-12-06,Europe,United Kingdom,2002-08-31,Europe,United Kingdom
+Chemistry,10000000,11301989,2007,Gerhard Ertl,male,1936-10-10,Europe,Germany,,,
+Chemistry,450000,3321850,1971,Gerhard Herzberg,male,1904-12-25,Europe,Germany,1999-03-03,North America,Canada
+Chemistry,265000,2839286,1963,Giulio Natta,male,1903-02-26,Europe,Italy,1979-05-02,Europe,Italy
+Chemistry,167612,2686090,1951,Glenn T. Seaborg,male,1912-04-19,North America,USA,1999-02-25,North America,USA
+Chemistry,172947,5066807,1930,Hans Fischer,male,1881-07-27,Europe,Germany,1945-03-31,Europe,Germany
+Chemistry,172760,4907955,1929,Hans von Euler-Chelpin,male,1873-02-15,Europe,Germany,1964-11-06,Europe,Sweden
+Chemistry,162608,5167627,1934,Harold C. Urey,male,1893-04-29,North America,USA,1981-01-05,North America,USA
+Chemistry,2500000,4645689,1988,Hartmut Michel,male,1948-07-18,Europe,Germany,,,
+Chemistry,126501,3593778,1927,Heinrich Wieland,male,1877-06-04,Europe,Germany,1957-08-05,Europe,Germany
+Chemistry,138536,7421571,1906,Henri Moissan,male,1852-09-28,Europe,France,1907-02-20,Europe,France
+Chemistry,1500000,3715324,1983,Henry Taube,male,1915-11-30,North America,Canada,2005-11-16,North America,USA
+Chemistry,1800000,3843964,1985,Herbert A. Hauptman,male,1917-02-14,North America,USA,2011-10-23,North America,USA
+Chemistry,800000,2988048,1979,Herbert C. Brown,male,1912-05-22,Europe,United Kingdom,2004-12-19,North America,USA
+Chemistry,175293,2567769,1953,Hermann Staudinger,male,1881-03-23,Europe,Germany,1965-09-08,Europe,Germany
+Chemistry,9000000,11333109,2000,Hideki Shirakawa,male,1936-08-20,Asia,Japan,,,
+Chemistry,700000,3080986,1977,Ilya Prigogine,male,1917-01-25,Europe,Russia,2003-05-28,Europe,Belgium
+Chemistry,159917,4997406,1935,Irène Joliot-Curie,female,1897-09-12,Europe,France,1956-03-17,Europe,France
+Chemistry,171753,5279293,1932,Irving Langmuir,male,1881-01-31,North America,USA,1957-08-16,North America,USA
+Chemistry,10000000,11762861,2004,Irwin Rose,male,1926-07-16,North America,USA,2015-06-03,North America,USA
+Chemistry,150782,8567159,1901,Jacobus H. van 't Hoff,male,1852-08-30,Europe,the Netherlands,1911-03-01,Europe,Germany
+Chemistry,9000000,9176183,2017,Jacques Dubochet,male,1942-06-08,Europe,Switzerland,,,
+Chemistry,121524,2503929,1946,James B. Sumner,male,1887-11-19,North America,USA,1955-08-12,North America,USA
+Chemistry,220678,2704387,1959,Jaroslav Heyrovsky,male,1890-12-20,Europe,Czech Republic,1967-03-27,Europe,Czech Republic
+Chemistry,2175000,4274764,1987,Jean-Marie Lehn,male,1939-09-30,Europe,France,,,
+Chemistry,8000000,8301051,2016,Jean-Pierre Sauvage,male,1944-10-21,Europe,France,,,
+Chemistry,7500000,9572839,1997,Jens C. Skou,male,1918-10-08,Europe,Denmark,2018-05-28,Europe,Denmark
+Chemistry,1800000,3843964,1985,Jerome Karle,male,1918-06-18,North America,USA,2013-06-06,,
+Chemistry,9000000,9176183,2017,Joachim Frank,male,1940-09-12,Europe,Germany,,,
+Chemistry,2500000,4645689,1988,Johann Deisenhofer,male,1943-09-30,Europe,Germany,,,
+Chemistry,10000000,12034660,2002,John B. Fenn,male,1917-06-15,North America,USA,2010-12-10,North America,USA
+Chemistry,9000000,9000000,2019,John B. Goodenough,male,1922-07-25,Europe,Germany,,,
+Chemistry,257220,2836985,1962,John C. Kendrew,male,1917-03-24,Europe,United Kingdom,1997-08-23,Europe,United Kingdom
+Chemistry,2000000,4098361,1986,John C. Polanyi,male,1929-01-23,Europe,Germany,,,
+Chemistry,630000,3404179,1975,John Cornforth,male,1917-09-07,Oceania,Australia,2013-12-08,,
+Chemistry,7500000,9572839,1997,John E. Walker,male,1941-01-07,Europe,United Kingdom,,,
+Chemistry,121524,2503929,1946,John H. Northrop,male,1891-07-05,North America,USA,1987-05-27,North America,USA
+Chemistry,7600000,9713701,1998,John Pople,male,1925-10-31,Europe,United Kingdom,2004-03-15,North America,USA
+Chemistry,265000,2839286,1963,Karl Ziegler,male,1898-11-26,Europe,Germany,1973-08-12,Europe,Germany
+Chemistry,6700000,9044276,1993,Kary B. Mullis,male,1944-12-28,North America,USA,2019-08-07,North America,USA
+Chemistry,1000000,2929688,1981,Kenichi Fukui,male,1918-10-04,Asia,Japan,1998-01-09,Asia,Japan
+Chemistry,10000000,12034660,2002,Koichi Tanaka,male,1959-08-03,Asia,Japan,,,
+Chemistry,164304,3050198,1950,Kurt Alder,male,1902-07-10,Europe,Poland,1958-06-20,Europe,Germany
+Chemistry,10000000,12034660,2002,Kurt Wüthrich,male,1938-10-04,Europe,Switzerland,,,
+Chemistry,350000,3052326,1968,Lars Onsager,male,1903-11-27,Europe,Norway,1976-10-05,North America,USA
+Chemistry,148822,4227898,1939,Leopold Ruzicka,male,1887-09-13,Europe,Croatia,1976-09-26,Europe,Switzerland
+Chemistry,208629,2697789,1957,Lord Todd,male,1907-10-02,Europe,Scotland,1997-01-10,Europe,United Kingdom
+Chemistry,400000,3177966,1970,Luis Leloir,male,1906-09-06,Europe,France,1987-12-02,South America,Argentina
+Chemistry,9000000,9000000,2019,M. Stanley Whittingham,male,1941-12-22,Europe,United Kingdom,,,
+Chemistry,320000,2843602,1967,Manfred Eigen,male,1927-05-09,Europe,Germany,2019-02-06,Europe,Germany
+Chemistry,7200000,9278351,1995,Mario J. Molina,male,1943-03-19,North America,Mexico,,,
+Chemistry,10000000,10926573,2008,Martin Chalfie,male,1947-01-15,North America,USA,,,
+Chemistry,8000000,8365867,2013,Martin Karplus,male,1930-03-15,Europe,Austria,,,
+Chemistry,257220,2836985,1962,Max F. Perutz,male,1914-05-19,Europe,Austria,2002-02-06,Europe,United Kingdom
+Chemistry,250233,2878447,1961,Melvin Calvin,male,1911-04-08,North America,USA,1997-01-08,North America,USA
+Chemistry,8000000,8365867,2013,Michael Levitt,male,1947-05-09,Africa,South Africa,,,
+Chemistry,6700000,9044276,1993,Michael Smith,male,1932-04-26,Europe,United Kingdom,2000-10-04,North America,Canada
+Chemistry,200123,2699501,1956,Nikolay Semenov,male,1896-04-03,Europe,Russia,1986-09-25,Europe,Russia
+Chemistry,158463,4716161,1937,Norman Haworth,male,1883-03-19,Europe,United Kingdom,1950-03-19,Europe,United Kingdom
+Chemistry,375000,3181561,1969,Odd Hassel,male,1897-05-17,Europe,Norway,1981-05-11,Europe,Norway
+Chemistry,10000000,10926573,2008,Osamu Shimomura,male,1928-08-27,Asia,Japan,2018-10-19,Asia,Japan
+Chemistry,164304,3050198,1950,Otto Diels,male,1876-01-23,Europe,Germany,1954-03-07,Europe,Germany
+Chemistry,121841,2510460,1944,Otto Hahn,male,1879-03-08,Europe,Germany,1968-07-28,Europe,Germany
+Chemistry,140703,7130220,1910,Otto Wallach,male,1847-03-27,Europe,Russia,1931-02-26,Europe,Germany
+Chemistry,880000,2889667,1980,Paul Berg,male,1926-06-30,North America,USA,,,
+Chemistry,7500000,9572839,1997,Paul D. Boyer,male,1918-07-31,North America,USA,2018-06-02,North America,USA
+Chemistry,7200000,9278351,1995,Paul J. Crutzen,male,1933-12-03,Europe,the Netherlands,,,
+Chemistry,550000,3263449,1974,Paul J. Flory,male,1910-06-19,North America,USA,1985-09-08,North America,USA
+Chemistry,158463,4716161,1937,Paul Karrer,male,1889-04-21,Europe,Russia,1971-06-18,Europe,Switzerland
+Chemistry,8000000,8384572,2015,Paul Modrich,male,1946-06-13,North America,USA,,,
+Chemistry,140476,6753654,1912,Paul Sabatier,male,1854-11-05,Europe,France,1941-08-14,Europe,France
+Chemistry,10000000,11807305,2003,Peter Agre,male,1949-01-30,North America,USA,,,
+Chemistry,159850,4913422,1936,Peter Debye,male,1884-03-24,Europe,the Netherlands,1966-11-02,North America,USA
+Chemistry,725000,2898454,1978,Peter Mitchell,male,1920-09-29,Europe,United Kingdom,1992-04-10,Europe,United Kingdom
+Chemistry,7400000,9490424,1996,Richard E. Smalley,male,1943-06-06,North America,USA,2005-10-28,North America,USA
+Chemistry,10000000,10819388,2010,Richard F. Heck,male,1931-08-15,North America,USA,2015-10-09,Asia,Philippines
+Chemistry,9000000,9176183,2017,Richard Henderson,male,1945-07-19,Europe,Scotland,,,
+Chemistry,155077,4543271,1938,Richard Kuhn,male,1900-12-03,Europe,Austria,1967-07-31,Europe,Germany
+Chemistry,171135,2546652,1952,Richard L.M. Synge,male,1914-10-28,Europe,United Kingdom,1994-08-18,Europe,United Kingdom
+Chemistry,6000000,8673863,1991,Richard R. Ernst,male,1933-08-14,Europe,Switzerland,,,
+Chemistry,10000000,11711430,2005,Richard R. Schrock,male,1945-01-04,North America,USA,,,
+Chemistry,149223,6217625,1915,Richard Willstätter,male,1872-08-13,Europe,Germany,1942-08-03,Europe,Switzerland
+Chemistry,118165,3211005,1925,Richard Zsigmondy,male,1865-04-01,Europe,Austria,1929-09-24,Europe,Germany
+Chemistry,1000000,2929688,1981,Roald Hoffmann,male,1937-07-18,Europe,Ukraine,,,
+Chemistry,282000,2782895,1965,Robert B. Woodward,male,1917-04-10,North America,USA,1979-07-08,North America,USA
+Chemistry,7400000,9490424,1996,Robert F. Curl Jr.,male,1933-08-23,North America,USA,,,
+Chemistry,10000000,11711430,2005,Robert H. Grubbs,male,1942-02-27,North America,USA,,,
+Chemistry,2500000,4645689,1988,Robert Huber,male,1937-02-20,Europe,Germany,,,
+Chemistry,8000000,8361204,2012,Robert J. Lefkowitz,male,1943-04-15,North America,USA,,,
+Chemistry,300000,2784653,1966,Robert S. Mulliken,male,1896-06-07,North America,USA,1986-10-31,North America,USA
+Chemistry,10000000,11807305,2003,Roderick MacKinnon,male,1956-02-19,North America,USA,,,
+Chemistry,10000000,11552680,2006,Roger D. Kornberg,male,1947-04-24,North America,USA,,,
+Chemistry,10000000,10926573,2008,Roger Y. Tsien,male,1952-02-01,North America,USA,2016-08-24,North America,USA
+Chemistry,320000,2843602,1967,Ronald G.W. Norrish,male,1897-11-09,Europe,United Kingdom,1978-06-07,Europe,United Kingdom
+Chemistry,6500000,9184250,1992,Rudolph A. Marcus,male,1923-07-21,North America,Canada,,,
+Chemistry,10000000,12295082,2001,Ryoji Noyori,male,1938-09-03,Asia,Japan,,,
+Chemistry,3000000,5242311,1989,Sidney Altman,male,1939-05-07,North America,Canada,,,
+Chemistry,200123,2699501,1956,Sir Cyril Hinshelwood,male,1897-05-19,Europe,United Kingdom,1967-10-09,Europe,United Kingdom
+Chemistry,9000000,9000000,2018,Sir Gregory P. Winter,male,1951-04-14,Europe,United Kingdom,,,
+Chemistry,7400000,9490424,1996,Sir Harold Kroto,male,1939-10-07,Europe,United Kingdom,2016-04-30,Europe,United Kingdom
+Chemistry,8000000,8301051,2016,Sir J. Fraser Stoddart,male,1942-05-24,Europe,United Kingdom,,,
+Chemistry,146115,2914528,1947,Sir Robert Robinson,male,1886-09-13,Europe,United Kingdom,1975-02-08,Europe,United Kingdom
+Chemistry,140859,7767960,1904,Sir William Ramsay,male,1852-10-02,Europe,Scotland,1916-07-23,Europe,United Kingdom
+Chemistry,480000,3345725,1972,Stanford Moore,male,1913-09-04,North America,USA,1982-08-23,North America,USA
+Chemistry,8000000,8379888,2014,Stefan W. Hell,male,1962-12-23,Europe,Romania,,,
+Chemistry,141358,7795478,1903,Svante Arrhenius,male,1859-02-19,Europe,Sweden,1927-10-02,Europe,Sweden
+Chemistry,116960,3273134,1926,The Svedberg,male,1884-08-30,Europe,Sweden,1971-02-25,Europe,Sweden
+Chemistry,146900,7062500,1914,Theodore W. Richards,male,1868-01-31,North America,USA,1928-04-02,North America,USA
+Chemistry,10000000,10958504,2009,Thomas A. Steitz,male,1940-08-23,North America,USA,2018-08-23,North America,USA
+Chemistry,3000000,5242311,1989,Thomas R. Cech,male,1947-12-08,North America,USA,,,
+Chemistry,8000000,8384572,2015,Tomas Lindahl,male,1938-01-28,Europe,Sweden,,,
+Chemistry,10000000,10958504,2009,Venkatraman Ramakrishnan,male,1952-00-00,Asia,India,,,
+Chemistry,140476,6753654,1912,Victor Grignard,male,1871-05-06,Europe,France,1935-12-13,Europe,France
+Chemistry,190214,2681588,1955,Vincent du Vigneaud,male,1901-05-18,North America,USA,1978-12-11,North America,USA
+Chemistry,630000,3404179,1975,Vladimir Prelog,male,1906-07-23,Europe,Bosnia and Herzegovina,1998-01-07,Europe,Switzerland
+Chemistry,880000,2889667,1980,Walter Gilbert,male,1932-03-21,North America,USA,,,
+Chemistry,7600000,9713701,1998,Walter Kohn,male,1923-03-09,Europe,Austria,2016-04-19,North America,USA
+Chemistry,134100,2394643,1920,Walther Nernst,male,1864-06-25,Europe,Germany,1941-11-18,Europe,Germany
+Chemistry,121524,2503929,1946,Wendell M. Stanley,male,1904-08-16,North America,USA,1971-06-15,Europe,Spain
+Chemistry,139800,7084459,1909,Wilhelm Ostwald,male,1853-09-02,Europe,Latvia,1932-04-04,Europe,Germany
+Chemistry,225987,2664941,1960,Willard F. Libby,male,1908-12-17,North America,USA,1980-09-08,North America,USA
+Chemistry,8000000,8379888,2014,William E. Moerner,male,1953-06-24,North America,USA,,,
+Chemistry,156290,2930438,1949,William F. Giauque,male,1895-05-12,North America,Canada,1982-03-28,North America,USA
+Chemistry,480000,3345725,1972,William H. Stein,male,1911-06-25,North America,USA,1980-02-02,North America,USA
+Chemistry,10000000,12295082,2001,William Knowles,male,1917-06-01,North America,USA,2012-06-13,North America,USA
+Chemistry,681000,3342605,1976,William Lipscomb,male,1919-12-09,North America,USA,2011-04-14,North America,USA
+Chemistry,2000000,4098361,1986,Yuan T. Lee,male,1936-11-19,Asia,Taiwan,,,
+Chemistry,10000000,11711430,2005,Yves Chauvin,male,1930-10-10,Europe,Belgium,2015-01-27,Europe,France
+Chemistry,880000,2889667,1980,Frederick Sanger,male,1918-08-13,Europe,United Kingdom,2013-11-19,Europe,United Kingdom
+Chemistry,181647,2640218,1954,Linus Pauling,male,1901-02-28,North America,USA,1994-08-19,North America,USA
+Chemistry,140695,7327865,1911,Marie Curie,female,1867-11-07,Europe,Poland,1934-07-04,Europe,France
+Physics,630000,3404179,1975,Aage N. Bohr,male,1922-06-19,Europe,Denmark,2009-09-08,Europe,Denmark
+Physics,800000,2988048,1979,Abdus Salam,male,1926-01-29,Asia,Pakistan,1996-11-21,Europe,United Kingdom
+Physics,10000000,10545557,2011,Adam G. Riess,male,1969-12-16,North America,USA,,,
+Physics,138796,7033581,1907,Albert A. Michelson,male,1852-12-19,Europe,Poland,1931-05-09,North America,USA
+Physics,121573,2532771,1921,Albert Einstein,male,1879-03-14,Europe,Germany,1955-04-18,North America,USA
+Physics,10000000,11301989,2007,Albert Fert,male,1938-03-07,Europe,France,,,
+Physics,273000,2828039,1964,Aleksandr M. Prokhorov,male,1916-07-11,Oceania,Australia,2002-01-08,Europe,Russia
+Physics,10000000,11807305,2003,Alexei Abrikosov,male,1928-06-25,Europe,Russia,2017-03-29,,
+Physics,300000,2784653,1966,Alfred Kastler,male,1902-05-03,Europe,France,1984-01-07,Europe,France
+Physics,10000000,10819388,2010,Andre Geim,male,1958-10-21,Europe,Russia,,,
+Physics,10000000,11807305,2003,Anthony J. Leggett,male,1938-03-26,Europe,United Kingdom,,,
+Physics,550000,3263449,1974,Antony Hewish,male,1924-05-11,Europe,United Kingdom,,,
+Physics,725000,2898454,1978,Arno Penzias,male,1933-04-26,Europe,Germany,,,
+Physics,9000000,9000000,2018,Arthur Ashkin,male,1922-09-02,North America,USA,,,
+Physics,8000000,8384572,2015,Arthur B. McDonald,male,1943-08-29,North America,Canada,,,
+Physics,126501,3593778,1927,Arthur H. Compton,male,1892-09-10,North America,USA,1962-03-15,North America,USA
+Physics,1000000,2929688,1981,Arthur L. Schawlow,male,1921-05-05,North America,USA,1999-04-28,North America,USA
+Physics,9000000,9176183,2017,Barry C. Barish,male,1936-01-27,North America,USA,,,
+Physics,630000,3404179,1975,Ben R. Mottelson,male,1926-07-09,North America,USA,,,
+Physics,7000000,9249471,1994,Bertram N. Brockhouse,male,1918-07-15,North America,Canada,2003-10-13,North America,Canada
+Physics,510000,3331882,1973,Brian D. Josephson,male,1940-01-04,Europe,United Kingdom,,,
+Physics,10000000,10545557,2011,Brian P. Schmidt,male,1967-02-24,North America,USA,,,
+Physics,681000,3342605,1976,Burton Richter,male,1931-03-22,North America,USA,2018-07-18,North America,USA
+Physics,126501,3593778,1927,C.T.R. Wilson,male,1869-02-14,Europe,Scotland,1959-11-15,Europe,Scotland
+Physics,159850,4913422,1936,Carl D. Anderson,male,1905-09-03,North America,USA,1991-01-11,North America,USA
+Physics,10000000,12295082,2001,Carl Wieman,male,1951-03-26,North America,USA,,,
+Physics,1650000,3782090,1984,Carlo Rubbia,male,1934-03-31,Europe,Italy,,,
+Physics,164304,3050198,1950,Cecil Powell,male,1903-12-05,Europe,United Kingdom,1969-08-09,Europe,Italy
+Physics,134100,2394643,1920,Charles Edouard Guillaume,male,1861-02-15,Europe,Switzerland,1938-06-13,Europe,France
+Physics,133823,3920596,1917,Charles Glover Barkla,male,1877-06-07,Europe,United Kingdom,1944-10-23,Europe,Scotland
+Physics,273000,2828039,1964,Charles H. Townes,male,1915-07-28,North America,USA,2015-01-27,North America,USA
+Physics,10000000,10958504,2009,Charles K. Kao,male,1933-11-04,Asia,China,2018-09-23,,
+Physics,208629,2697789,1957,Chen Ning Yang,male,1922-09-22,Asia,China,,,
+Physics,7500000,9572839,1997,Claude Cohen-Tannoudji,male,1933-04-01,Africa,Algeria,,,
+Physics,7000000,9249471,1994,Clifford G. Shull,male,1915-09-23,North America,USA,2001-03-31,North America,USA
+Physics,158463,4716161,1937,Clinton Davisson,male,1881-10-22,North America,USA,1958-02-01,North America,USA
+Physics,7600000,9713701,1998,Daniel C. Tsui,male,1939-02-28,Asia,China,,,
+Physics,10000000,11762861,2004,David J. Gross,male,1941-02-19,North America,USA,,,
+Physics,8000000,8301051,2016,David J. Thouless,male,1934-09-21,Europe,United Kingdom,2019-04-06,Europe,United Kingdom
+Physics,8000000,8361204,2012,David J. Wineland,male,1944-02-24,North America,USA,,,
+Physics,7400000,9490424,1996,David M. Lee,male,1931-01-20,North America,USA,,,
+Physics,450000,3321850,1971,Dennis Gabor,male,1900-06-05,Europe,Hungary,1979-02-08,Europe,United Kingdom
+Physics,9000000,9000000,2019,Didier Queloz,male,1966-02-23,Europe,Switzerland,,,
+Physics,225987,2664941,1960,Donald A. Glaser,male,1926-09-21,North America,USA,2013-02-28,North America,USA
+Physics,9000000,9000000,2018,Donna Strickland,female,1959-05-27,North America,Canada,,,
+Physics,7400000,9490424,1996,Douglas D. Osheroff,male,1945-08-01,North America,USA,,,
+Physics,171135,2546652,1952,E. M. Purcell,male,1912-08-30,North America,USA,1997-03-07,North America,USA
+Physics,146115,2914528,1947,Edward V. Appleton,male,1892-09-06,Europe,United Kingdom,1965-04-21,Europe,Scotland
+Physics,220678,2704387,1959,Emilio Segrè,male,1905-02-01,Europe,Italy,1989-04-22,North America,USA
+Physics,155077,4543271,1938,Enrico Fermi,male,1901-09-29,Europe,Italy,1954-11-28,North America,USA
+Physics,10000000,12295082,2001,Eric Cornell,male,1961-12-19,North America,USA,,,
+Physics,148822,4227898,1939,Ernest Lawrence,male,1901-08-08,North America,USA,1958-08-27,North America,USA
+Physics,167612,2686090,1951,Ernest T.S. Walton,male,1903-10-06,Europe,Ireland,1995-06-25,Europe,Northern Ireland
+Physics,2000000,4098361,1986,Ernst Ruska,male,1906-12-25,Europe,Germany,1988-05-27,Europe,Germany
+Physics,170332,5413093,1933,Erwin Schrödinger,male,1887-08-12,Europe,Austria,1961-01-04,Europe,Austria
+Physics,265000,2839286,1963,Eugene Wigner,male,1902-11-17,Europe,Hungary,1995-01-01,North America,USA
+Physics,8000000,8301051,2016,F. Duncan M. Haldane,male,1951-09-14,Europe,United Kingdom,,,
+Physics,171135,2546652,1952,Felix Bloch,male,1905-10-23,Europe,Switzerland,1983-09-10,Europe,Switzerland
+Physics,139800,7084459,1909,Ferdinand Braun,male,1850-06-06,Europe,Germany,1918-04-20,North America,USA
+Physics,8000000,8365867,2013,François Englert,male,1932-11-06,Europe,Belgium,,,
+Physics,10000000,11762861,2004,Frank Wilczek,male,1951-05-15,North America,USA,,,
+Physics,7200000,9278351,1995,Frederick Reines,male,1918-03-16,North America,USA,1998-08-26,North America,USA
+Physics,175293,2567769,1953,Frits Zernike,male,1888-07-16,Europe,the Netherlands,1966-03-10,Europe,the Netherlands
+Physics,139800,7084459,1908,Gabriel Lippmann,male,1845-08-16,Europe,Luxembourg,1921-07-13,,
+Physics,10000000,10958504,2009,George E. Smith,male,1930-05-10,North America,USA,,,
+Physics,10000000,11552680,2006,George F. Smoot,male,1945-02-20,North America,USA,,,
+Physics,158463,4716161,1937,George Paget Thomson,male,1892-05-03,Europe,United Kingdom,1975-09-10,Europe,United Kingdom
+Physics,6500000,9184250,1992,Georges Charpak,male,1924-08-01,Europe,Poland,2010-09-29,Europe,France
+Physics,9000000,9000000,2018,Gérard Mourou,male,1944-06-22,Europe,France,,,
+Physics,7900000,10049186,1999,Gerardus 't Hooft,male,1946-07-05,Europe,the Netherlands,,,
+Physics,2000000,4098361,1986,Gerd Binnig,male,1947-07-20,Europe,Germany,,,
+Physics,139800,7084459,1909,Guglielmo Marconi,male,1874-04-25,Europe,Italy,1937-07-20,Europe,Italy
+Physics,140476,6753654,1912,Gustaf Dalén,male,1869-11-30,Europe,Sweden,1937-12-09,Europe,Sweden
+Physics,118165,3211005,1925,Gustav Hertz,male,1887-07-22,Europe,Germany,1975-10-30,Europe,Germany
+Physics,10000000,11762861,2004,H. David Politzer,male,1949-08-31,North America,USA,,,
+Physics,400000,3177966,1970,Hannes Alfvén,male,1908-05-30,Europe,Sweden,1995-04-02,Europe,Sweden
+Physics,320000,2843602,1967,Hans Bethe,male,1906-07-02,Europe,France,2005-03-06,North America,USA
+Physics,3000000,5242311,1989,Hans G. Dehmelt,male,1922-09-09,Europe,Germany,2017-03-07,North America,USA
+Physics,143010,6875481,1913,Heike Kamerlingh Onnes,male,1853-09-21,Europe,the Netherlands,1926-02-21,Europe,the Netherlands
+Physics,2000000,4098361,1986,Heinrich Rohrer,male,1933-06-06,Europe,Switzerland,2013-05-16,Europe,Switzerland
+Physics,141847,8059489,1902,Hendrik A. Lorentz,male,1853-07-18,Europe,the Netherlands,1928-02-04,Europe,the Netherlands
+Physics,141358,7795478,1903,Henri Becquerel,male,1852-12-15,Europe,France,1908-08-25,Europe,France
+Physics,4000000,6329114,1990,Henry W. Kendall,male,1926-12-09,North America,USA,1999-02-15,North America,USA
+Physics,9000000,11333109,2000,Herbert Kroemer,male,1928-08-25,Europe,Germany,,,
+Physics,156290,2930438,1949,Hideki Yukawa,male,1907-01-23,Asia,Japan,1981-09-08,Asia,Japan
+Physics,8000000,8379888,2014,Hiroshi Amano,male,1960-09-11,Asia,Japan,,,
+Physics,7600000,9713701,1998,Horst L. Störmer,male,1949-04-06,Europe,Germany,,,
+Physics,214559,2646698,1958,Igor Y. Tamm,male,1895-07-08,Europe,Russia,1971-04-12,Europe,Russia
+Physics,214559,2646698,1958,Il´ja M. Frank,male,1908-10-23,Europe,Russia,1990-06-22,Europe,Russia
+Physics,8000000,8379888,2014,Isamu Akasaki,male,1929-01-30,Asia,Japan,,,
+Physics,121841,2510460,1944,Isidor Isaac Rabi,male,1898-07-29,Europe,Poland,1988-01-11,North America,USA
+Physics,510000,3331882,1973,Ivar Giaever,male,1929-04-05,Europe,Norway,,,
+Physics,2175000,4274764,1987,J. Georg Bednorz,male,1950-05-16,Europe,Germany,,,
+Physics,265000,2839286,1963,J. Hans D. Jensen,male,1907-06-25,Europe,Germany,1973-02-11,Europe,Germany
+Physics,8000000,8301051,2016,J. Michael Kosterlitz,male,1943-06-22,Europe,United Kingdom,,,
+Physics,138536,7421571,1906,J.J. Thomson,male,1856-12-18,Europe,United Kingdom,1940-08-30,Europe,United Kingdom
+Physics,9000000,11333109,2000,Jack Kilby,male,1923-11-08,North America,USA,2005-06-20,North America,USA
+Physics,2500000,4645689,1988,Jack Steinberger,male,1921-05-25,Europe,Germany,,,
+Physics,159917,4997406,1935,James Chadwick,male,1891-10-20,Europe,United Kingdom,1974-07-24,Europe,United Kingdom
+Physics,880000,2889667,1980,James Cronin,male,1931-09-29,North America,USA,2016-08-25,North America,USA
+Physics,118165,3211005,1925,James Franck,male,1882-08-26,Europe,Germany,1964-05-21,Europe,Germany
+Physics,9000000,9000000,2019,James Peebles,male,1935-04-25,North America,Canada,,,
+Physics,630000,3404179,1975,James Rainwater,male,1917-12-09,North America,USA,1986-03-31,North America,USA
+Physics,116960,3273134,1926,Jean Baptiste Perrin,male,1870-09-30,Europe,France,1942-04-17,North America,USA
+Physics,4000000,6329114,1990,Jerome I. Friedman,male,1930-03-28,North America,USA,,,
+Physics,140703,7130220,1910,Johannes Diderik van der Waals,male,1837-11-23,Europe,the Netherlands,1923-03-08,Europe,the Netherlands
+Physics,133127,2377268,1919,Johannes Stark,male,1874-04-15,Europe,Germany,1957-06-21,Europe,Germany
+Physics,200123,2699501,1956,John Bardeen,male,1908-05-23,North America,USA,1991-01-30,North America,USA
+Physics,10000000,11552680,2006,John C. Mather,male,1946-08-07,North America,USA,,,
+Physics,167612,2686090,1951,John Cockcroft,male,1897-05-27,Europe,United Kingdom,1967-09-18,Europe,United Kingdom
+Physics,700000,3080986,1977,John H. van Vleck,male,1899-03-13,North America,USA,1980-10-27,North America,USA
+Physics,10000000,11711430,2005,John L. Hall,male,1934-08-21,North America,USA,,,
+Physics,6700000,9044276,1993,Joseph H. Taylor Jr.,male,1941-03-29,North America,USA,,,
+Physics,282000,2782895,1965,Julian Schwinger,male,1918-02-12,North America,USA,1994-07-16,North America,USA
+Physics,2175000,4274764,1987,K. Alex Müller,male,1927-04-20,Europe,Switzerland,,,
+Physics,1000000,2929688,1981,Kai M. Siegbahn,male,1918-04-20,Europe,Sweden,2007-07-20,Europe,Sweden
+Physics,1150000,3102518,1982,Kenneth G. Wilson,male,1936-06-08,North America,USA,2013-06-15,North America,USA
+Physics,9000000,9176183,2017,Kip S. Thorne,male,1940-06-01,North America,USA,,,
+Physics,1800000,3843964,1985,Klaus von Klitzing,male,1943-06-28,Europe,Poland,,,
+Physics,10000000,10819388,2010,Konstantin Novoselov,male,1974-08-23,Europe,Russia,,,
+Physics,149223,6217625,1915,Lawrence Bragg,male,1890-03-31,Oceania,Australia,1971-07-01,Europe,United Kingdom
+Physics,510000,3331882,1973,Leo Esaki,male,1925-03-12,Asia,Japan,,,
+Physics,2500000,4645689,1988,Leon M. Lederman,male,1922-07-15,North America,USA,2018-10-03,North America,USA
+Physics,480000,3345725,1972,Leon N. Cooper,male,1930-02-28,North America,USA,,,
+Physics,257220,2836985,1962,Lev Landau,male,1908-01-22,Asia,Azerbaijan,1968-04-01,Europe,Russia
+Physics,140859,7767960,1904,Lord Rayleigh,male,1842-11-12,Europe,United Kingdom,1919-06-30,Europe,United Kingdom
+Physics,172760,4907955,1929,Louis de Broglie,male,1892-08-15,Europe,France,1987-03-19,Europe,France
+Physics,400000,3177966,1970,Louis Néel,male,1904-11-22,Europe,France,2000-11-17,Europe,France
+Physics,350000,3052326,1968,Luis Alvarez,male,1911-06-13,North America,USA,1988-09-01,North America,USA
+Physics,10000000,10926573,2008,Makoto Kobayashi,male,1944-04-07,Asia,Japan,,,
+Physics,116719,3218355,1924,Manne Siegbahn,male,1886-12-03,Europe,Sweden,1978-09-26,Europe,Sweden
+Physics,265000,2839286,1963,Maria Goeppert Mayer,female,1906-06-28,Europe,Poland,1972-02-20,North America,USA
+Physics,141358,7795478,1903,Marie Curie,female,1867-11-07,Europe,Poland,1934-07-04,Europe,France
+Physics,7200000,9278351,1995,Martin L. Perl,male,1927-06-24,North America,USA,2014-09-30,North America,USA
+Physics,550000,3263449,1974,Martin Ryle,male,1918-09-27,Europe,United Kingdom,1984-10-14,Europe,United Kingdom
+Physics,7900000,10049186,1999,Martinus J.G. Veltman,male,1931-06-27,Europe,the Netherlands,,,
+Physics,10000000,12034660,2002,Masatoshi Koshiba,male,1926-09-19,Asia,Japan,,,
+Physics,181647,2640218,1954,Max Born,male,1882-12-11,Europe,Poland,1970-01-05,Europe,Germany
+Physics,138198,2847486,1918,Max Planck,male,1858-04-23,Europe,Germany,1947-10-04,Europe,Germany
+Physics,146900,7062500,1914,Max von Laue,male,1879-10-09,Europe,Germany,1960-04-23,Europe,Germany
+Physics,2500000,4645689,1988,Melvin Schwartz,male,1932-11-02,North America,USA,2006-08-28,North America,USA
+Physics,9000000,9000000,2019,Michel Mayor,male,1942-01-12,Europe,Switzerland,,,
+Physics,375000,3181561,1969,Murray Gell-Mann,male,1929-09-15,North America,USA,2019-05-24,North America,USA
+Physics,1000000,2929688,1981,Nicolaas Bloembergen,male,1920-03-11,Europe,the Netherlands,2017-09-05,North America,USA
+Physics,273000,2828039,1964,Nicolay G. Basov,male,1922-12-14,Europe,Russia,2001-07-01,Europe,Russia
+Physics,122483,3145967,1922,Niels Bohr,male,1885-10-07,Europe,Denmark,1962-11-18,Europe,Denmark
+Physics,3000000,5242311,1989,Norman F. Ramsey,male,1915-08-27,North America,USA,2011-11-04,North America,USA
+Physics,123691,2520876,1943,Otto Stern,male,1888-02-17,Europe,Poland,1969-08-17,North America,USA
+Physics,220678,2704387,1959,Owen Chamberlain,male,1920-07-10,North America,USA,2006-02-28,North America,USA
+Physics,156939,4458494,1928,Owen Willans Richardson,male,1879-04-26,Europe,United Kingdom,1959-02-15,Europe,United Kingdom
+Physics,159773,3056881,1948,Patrick M.S. Blackett,male,1897-11-18,Europe,United Kingdom,1974-07-13,Europe,United Kingdom
+Physics,170332,5413093,1933,Paul A.M. Dirac,male,1902-08-08,Europe,United Kingdom,1984-10-20,North America,USA
+Physics,214559,2646698,1958,Pavel A. Cherenkov,male,1904-07-28,Europe,Russia,1990-01-06,Europe,Russia
+Physics,121524,2503929,1946,Percy W. Bridgman,male,1882-04-21,North America,USA,1961-08-20,North America,USA
+Physics,10000000,11301989,2007,Peter Grünberg,male,1939-05-18,Europe,Czech Republic,2018-04-09,Europe,Germany
+Physics,8000000,8365867,2013,Peter Higgs,male,1929-05-29,Europe,United Kingdom,,,
+Physics,700000,3080986,1977,Philip W. Anderson,male,1923-12-13,North America,USA,2020-03-29,North America,USA
+Physics,138089,7615202,1905,Philipp Lenard,male,1862-06-07,Europe,Slovakia,1947-05-20,Europe,Germany
+Physics,141358,7795478,1903,Pierre Curie,male,1859-05-15,Europe,France,1906-04-19,Europe,France
+Physics,6000000,8673863,1991,Pierre-Gilles de Gennes,male,1932-10-24,Europe,France,2007-05-18,Europe,France
+Physics,141847,8059489,1902,Pieter Zeeman,male,1865-05-25,Europe,the Netherlands,1943-10-09,Europe,the Netherlands
+Physics,190214,2681588,1955,Polykarp Kusch,male,1911-01-26,Europe,Germany,1993-03-20,North America,USA
+Physics,725000,2898454,1978,Pyotr Kapitsa,male,1894-07-09,Europe,Russia,1984-04-08,Europe,Russia
+Physics,9000000,9176183,2017,Rainer Weiss,male,1932-09-29,Europe,Germany,,,
+Physics,10000000,12034660,2002,Raymond Davis Jr.,male,1914-10-14,North America,USA,2006-05-31,North America,USA
+Physics,10000000,12034660,2002,Riccardo Giacconi,male,1931-10-06,Europe,Italy,2018-12-16,North America,USA
+Physics,4000000,6329114,1990,Richard E. Taylor,male,1929-11-02,North America,Canada,2018-02-22,North America,USA
+Physics,282000,2782895,1965,Richard P. Feynman,male,1918-05-11,North America,USA,1988-02-15,North America,USA
+Physics,114935,3169164,1923,Robert A. Millikan,male,1868-03-22,North America,USA,1953-12-19,North America,USA
+Physics,7600000,9713701,1998,Robert B. Laughlin,male,1950-11-01,North America,USA,,,
+Physics,7400000,9490424,1996,Robert C. Richardson,male,1937-06-26,North America,USA,2013-02-19,North America,USA
+Physics,250233,2878447,1961,Robert Hofstadter,male,1915-02-05,North America,USA,1990-11-17,North America,USA
+Physics,480000,3345725,1972,Robert Schrieffer,male,1931-05-31,North America,USA,2019-07-27,North America,USA
+Physics,725000,2898454,1978,Robert Woodrow Wilson,male,1936-01-10,North America,USA,,,
+Physics,10000000,11711430,2005,Roy J. Glauber,male,1925-09-01,North America,USA,2018-12-26,North America,USA
+Physics,250233,2878447,1961,Rudolf Mössbauer,male,1929-01-31,Europe,Germany,2011-09-14,,
+Physics,6700000,9044276,1993,Russell A. Hulse,male,1950-11-28,North America,USA,,,
+Physics,681000,3342605,1976,Samuel C.C. Ting,male,1936-01-27,North America,USA,,,
+Physics,10000000,10545557,2011,Saul Perlmutter,male,1959-00-00,North America,USA,,,
+Physics,8000000,8361204,2012,Serge Haroche,male,1944-09-11,Africa,Morocco,,,
+Physics,800000,2988048,1979,Sheldon Glashow,male,1932-12-05,North America,USA,,,
+Physics,8000000,8379888,2014,Shuji Nakamura,male,1954-05-22,Asia,Japan,,,
+Physics,1650000,3782090,1984,Simon van der Meer,male,1925-11-24,Europe,the Netherlands,2011-03-04,Europe,Switzerland
+Physics,282000,2782895,1965,Sin-Itiro Tomonaga,male,1906-03-31,Asia,Japan,1979-07-08,Asia,Japan
+Physics,172947,5066807,1930,Sir Chandrasekhara Venkata Raman,male,1888-11-07,Asia,India,1970-11-21,Asia,India
+Physics,700000,3080986,1977,Sir Nevill F. Mott,male,1905-09-30,Europe,United Kingdom,1996-08-08,Europe,United Kingdom
+Physics,7500000,9572839,1997,Steven Chu,male,1948-02-28,North America,USA,,,
+Physics,800000,2988048,1979,Steven Weinberg,male,1933-05-03,North America,USA,,,
+Physics,1500000,3715324,1983,Subramanyan Chandrasekhar,male,1910-10-19,Asia,Pakistan,1995-08-21,North America,USA
+Physics,8000000,8384572,2015,Takaaki Kajita,male,1959-03-09,Asia,Japan,,,
+Physics,10000000,11711430,2005,Theodor W. Hänsch,male,1941-10-30,Europe,Germany,,,
+Physics,10000000,10926573,2008,Toshihide Maskawa,male,1940-02-07,Asia,Japan,,,
+Physics,208629,2697789,1957,Tsung-Dao Lee,male,1926-11-24,Asia,China,,,
+Physics,880000,2889667,1980,Val Fitch,male,1923-03-10,North America,USA,2015-02-05,North America,USA
+Physics,159850,4913422,1936,Victor F. Hess,male,1883-06-24,Europe,Austria,1964-12-17,North America,USA
+Physics,10000000,11807305,2003,Vitaly L. Ginzburg,male,1916-10-04,Europe,Russia,2009-11-08,,
+Physics,200123,2699501,1956,Walter H. Brattain,male,1902-02-10,Asia,China,1987-10-13,North America,USA
+Physics,181647,2640218,1954,Walther Bothe,male,1891-01-08,Europe,Germany,1957-02-08,Europe,Germany
+Physics,171753,5279293,1932,Werner Heisenberg,male,1901-12-05,Europe,Germany,1976-02-01,Europe,Germany
+Physics,150782,8567159,1901,Wilhelm Conrad Röntgen,male,1845-03-27,Europe,Germany,1923-02-10,Europe,Germany
+Physics,140695,7327865,1911,Wilhelm Wien,male,1864-01-13,Europe,Russia,1928-08-30,Europe,Germany
+Physics,10000000,10958504,2009,Willard S. Boyle,male,1924-08-19,North America,Canada,2011-05-07,North America,Canada
+Physics,1500000,3715324,1983,William A. Fowler,male,1911-08-09,North America,USA,1995-03-14,North America,USA
+Physics,200123,2699501,1956,William B. Shockley,male,1910-02-13,Europe,United Kingdom,1989-08-12,North America,USA
+Physics,149223,6217625,1915,William Bragg,male,1862-07-02,Europe,United Kingdom,1942-03-12,Europe,United Kingdom
+Physics,7500000,9572839,1997,William D. Phillips,male,1948-11-05,North America,USA,,,
+Physics,190214,2681588,1955,Willis E. Lamb,male,1913-07-12,North America,USA,2008-05-15,North America,USA
+Physics,10000000,12295082,2001,Wolfgang Ketterle,male,1957-10-21,Europe,Germany,,,
+Physics,3000000,5242311,1989,Wolfgang Paul,male,1913-08-10,Europe,Germany,1993-12-07,Europe,Germany
+Physics,121333,2499993,1945,Wolfgang Pauli,male,1900-04-25,Europe,Austria,1958-12-15,Europe,Switzerland
+Physics,10000000,10926573,2008,Yoichiro Nambu,male,1921-01-18,Asia,Japan,2015-07-05,Asia,Japan
+Physics,9000000,11333109,2000,Zhores Alferov,male,1930-03-15,Europe,Belarus,2019-03-01,Europe,Russia
+Physics,480000,3345725,1972,John Bardeen,male,1908-05-23,North America,USA,1991-01-30,North America,USA
+Physiology or Medicine,265000,2839286,1963,Alan Hodgkin,male,1914-02-05,Europe,United Kingdom,1998-12-20,Europe,United Kingdom
+Physiology or Medicine,550000,3263449,1974,Albert Claude,male,1898-08-24,Europe,Belgium,1983-05-22,Europe,Belgium
+Physiology or Medicine,158463,4716161,1937,Albert Szent-Györgyi,male,1893-09-16,Europe,Hungary,1986-10-22,North America,USA
+Physiology or Medicine,140703,7130220,1910,Albrecht Kossel,male,1853-09-16,Europe,Germany,1927-07-05,Europe,Germany
+Physiology or Medicine,140476,6753654,1912,Alexis Carrel,male,1873-06-28,Europe,France,1944-11-05,Europe,France
+Physiology or Medicine,375000,3181561,1969,Alfred D. Hershey,male,1908-12-04,North America,USA,1997-05-22,North America,USA
+Physiology or Medicine,7000000,9249471,1994,Alfred G. Gilman,male,1941-07-01,North America,USA,2015-12-23,North America,USA
+Physiology or Medicine,800000,2988048,1979,Allan M. Cormack,male,1924-02-23,Africa,South Africa,1998-05-07,North America,USA
+Physiology or Medicine,140695,7327865,1911,Allvar Gullstrand,male,1862-06-05,Europe,Sweden,1930-07-28,Europe,Sweden
+Physiology or Medicine,138796,7033581,1907,Alphonse Laveran,male,1845-06-18,Europe,France,1922-05-18,Europe,France
+Physiology or Medicine,200123,2699501,1956,André F. Cournand,male,1895-09-24,Europe,France,1988-02-19,North America,USA
+Physiology or Medicine,282000,2782895,1965,André Lwoff,male,1902-05-08,Europe,France,1994-09-30,Europe,France
+Physiology or Medicine,265000,2839286,1963,Andrew Huxley,male,1917-11-22,Europe,United Kingdom,2012-05-30,Europe,United Kingdom
+Physiology or Medicine,700000,3080986,1977,Andrew V. Schally,male,1926-11-30,Europe,Lithuania,,,
+Physiology or Medicine,10000000,11552680,2006,Andrew Z. Fire,male,1959-04-27,North America,USA,,,
+Physiology or Medicine,122483,3145967,1922,Archibald V. Hill,male,1886-09-26,Europe,United Kingdom,1977-06-03,Europe,United Kingdom
+Physiology or Medicine,220678,2704387,1959,Arthur Kornberg,male,1918-03-03,North America,USA,2007-10-26,North America,USA
+Physiology or Medicine,9000000,11333109,2000,Arvid Carlsson,male,1923-01-25,Europe,Sweden,2018-06-29,Europe,Sweden
+Physiology or Medicine,134100,2394643,1920,August Krogh,male,1874-11-15,Europe,Denmark,1949-09-13,Europe,Denmark
+Physiology or Medicine,1500000,3715324,1983,Barbara McClintock,female,1902-06-16,North America,USA,1992-09-02,North America,USA
+Physiology or Medicine,10000000,11711430,2005,Barry J. Marshall,male,1951-09-30,Oceania,Australia,,,
+Physiology or Medicine,681000,3342605,1976,Baruch S. Blumberg,male,1925-07-28,North America,USA,2011-04-05,North America,USA
+Physiology or Medicine,880000,2889667,1980,Baruj Benacerraf,male,1920-10-29,South America,Venezuela,2011-08-02,North America,USA
+Physiology or Medicine,1150000,3102518,1982,Bengt I. Samuelsson,male,1934-05-21,Europe,Sweden,,,
+Physiology or Medicine,146115,2914528,1947,Bernardo Houssay,male,1887-04-10,South America,Argentina,1971-09-21,South America,Argentina
+Physiology or Medicine,6000000,8673863,1991,Bert Sakmann,male,1942-06-12,Europe,Germany,,,
+Physiology or Medicine,10000000,10545557,2011,Bruce A. Beutler,male,1957-12-29,North America,USA,,,
+Physiology or Medicine,138536,7421571,1906,Camillo Golgi,male,1843-07-07,Europe,Italy,1926-01-21,Europe,Italy
+Physiology or Medicine,146115,2914528,1947,Carl Cori,male,1896-12-05,Europe,Czech Republic,1984-10-20,North America,USA
+Physiology or Medicine,10000000,10958504,2009,Carol W. Greider,female,1961-04-15,North America,USA,,,
+Physiology or Medicine,1650000,3782090,1984,César Milstein,male,1927-10-08,South America,Argentina,2002-03-24,Europe,United Kingdom
+Physiology or Medicine,300000,2784653,1966,Charles B. Huggins,male,1901-09-22,North America,Canada,1997-01-12,North America,USA
+Physiology or Medicine,156939,4458494,1928,Charles Nicolle,male,1866-09-21,Europe,France,1936-02-28,Africa,Tunisia
+Physiology or Medicine,143010,6875481,1913,Charles Richet,male,1850-08-26,Europe,France,1935-12-04,Europe,France
+Physiology or Medicine,172760,4907955,1929,Christiaan Eijkman,male,1858-08-11,Europe,the Netherlands,1930-11-05,Europe,the Netherlands
+Physiology or Medicine,550000,3263449,1974,Christian de Duve,male,1917-10-02,Europe,United Kingdom,2013-05-04,Europe,Belgium
+Physiology or Medicine,7200000,9278351,1995,Christiane Nüsslein-Volhard,female,1942-10-20,Europe,Germany,,,
+Physiology or Medicine,155077,4543271,1938,Corneille Heymans,male,1892-03-28,Europe,Belgium,1968-07-18,Europe,Belgium
+Physiology or Medicine,10000000,11552680,2006,Craig C. Mello,male,1960-10-19,North America,USA,,,
+Physiology or Medicine,681000,3342605,1976,D. Carleton Gajdusek,male,1923-09-09,North America,USA,2008-12-12,Europe,Norway
+Physiology or Medicine,208629,2697789,1957,Daniel Bovet,male,1907-03-23,Europe,Switzerland,1992-04-08,Europe,Italy
+Physiology or Medicine,725000,2898454,1978,Daniel Nathans,male,1928-10-30,North America,USA,1999-11-16,North America,USA
+Physiology or Medicine,630000,3404179,1975,David Baltimore,male,1938-03-07,North America,USA,,,
+Physiology or Medicine,1000000,2929688,1981,David H. Hubel,male,1926-02-27,North America,Canada,2013-09-22,North America,USA
+Physiology or Medicine,200123,2699501,1956,Dickinson W. Richards,male,1895-10-30,North America,USA,1973-02-23,North America,USA
+Physiology or Medicine,4000000,6329114,1990,E. Donnall Thomas,male,1920-03-15,North America,USA,2012-10-20,North America,USA
+Physiology or Medicine,450000,3321850,1971,"Earl W. Sutherland, Jr.",male,1915-11-19,North America,USA,1974-03-09,North America,USA
+Physiology or Medicine,171753,5279293,1932,Edgar Adrian,male,1889-11-30,Europe,United Kingdom,1977-08-08,Europe,United Kingdom
+Physiology or Medicine,6500000,9184250,1992,Edmond H. Fischer,male,1920-04-06,Asia,China,,,
+Physiology or Medicine,8000000,8379888,2014,Edvard I. Moser,male,1962-04-27,Europe,Norway,,,
+Physiology or Medicine,123691,2520876,1943,Edward A. Doisy,male,1893-11-13,North America,USA,1986-10-23,North America,USA
+Physiology or Medicine,7200000,9278351,1995,Edward B. Lewis,male,1918-05-20,North America,USA,2004-07-21,North America,USA
+Physiology or Medicine,164304,3050198,1950,Edward C. Kendall,male,1886-03-08,North America,USA,1972-05-04,North America,USA
+Physiology or Medicine,214559,2646698,1958,Edward Tatum,male,1909-12-14,North America,USA,1975-11-05,North America,USA
+Physiology or Medicine,6500000,9184250,1992,Edwin G. Krebs,male,1918-06-06,North America,USA,2009-12-21,North America,USA
+Physiology or Medicine,156290,2930438,1949,Egas Moniz,male,1874-11-29,Europe,Portugal,1955-12-13,Europe,Portugal
+Physiology or Medicine,10000000,10958504,2009,Elizabeth H. Blackburn,female,1948-11-26,Oceania,Australia,,,
+Physiology or Medicine,150782,8567159,1901,Emil von Behring,male,1854-03-15,Europe,Poland,1917-03-31,Europe,Germany
+Physiology or Medicine,7200000,9278351,1995,Eric F. Wieschaus,male,1947-06-08,North America,USA,,,
+Physiology or Medicine,9000000,11333109,2000,Eric Kandel,male,1929-11-07,Europe,Austria,,,
+Physiology or Medicine,121333,2499993,1945,Ernst B. Chain,male,1906-06-19,Europe,Germany,1979-08-12,Europe,Ireland
+Physiology or Medicine,6000000,8673863,1991,Erwin Neher,male,1944-03-20,Europe,Germany,,,
+Physiology or Medicine,273000,2828039,1964,Feodor Lynen,male,1911-04-06,Europe,Germany,1979-08-06,Europe,Germany
+Physiology or Medicine,7600000,9713701,1998,Ferid Murad,male,1936-09-14,North America,USA,,,
+Physiology or Medicine,257220,2836985,1962,Francis Crick,male,1916-06-08,Europe,United Kingdom,2004-07-28,North America,USA
+Physiology or Medicine,282000,2782895,1965,François Jacob,male,1920-06-17,Europe,France,2013-04-19,Europe,France
+Physiology or Medicine,10000000,10926573,2008,Françoise Barré-Sinoussi,female,1947-07-30,Europe,France,,,
+Physiology or Medicine,181647,2640218,1954,Frederick C. Robbins,male,1916-08-25,North America,USA,2003-08-04,North America,USA
+Physiology or Medicine,114935,3169164,1923,Frederick G. Banting,male,1891-11-14,North America,Canada,1941-02-21,North America,Canada
+Physiology or Medicine,175293,2567769,1953,Fritz Lipmann,male,1899-06-12,Europe,Russia,1986-07-24,North America,USA
+Physiology or Medicine,250233,2878447,1961,Georg von Békésy,male,1899-06-03,Europe,Hungary,1972-06-13,North America,USA
+Physiology or Medicine,214559,2646698,1958,George Beadle,male,1903-10-22,North America,USA,1989-06-09,North America,USA
+Physiology or Medicine,880000,2889667,1980,George D. Snell,male,1903-12-19,North America,USA,1996-06-06,North America,USA
+Physiology or Medicine,550000,3263449,1974,George E. Palade,male,1912-11-19,Europe,Romania,2008-10-07,North America,USA
+Physiology or Medicine,2500000,4645689,1988,George H. Hitchings,male,1905-04-18,North America,USA,1998-02-27,North America,USA
+Physiology or Medicine,162608,5167627,1934,George H. Whipple,male,1878-08-28,North America,USA,1976-02-01,North America,USA
+Physiology or Medicine,162608,5167627,1934,George R. Minot,male,1885-12-02,North America,USA,1950-02-25,North America,USA
+Physiology or Medicine,320000,2843602,1967,George Wald,male,1906-11-18,North America,USA,1997-04-12,North America,USA
+Physiology or Medicine,1650000,3782090,1984,Georges J.F. Köhler,male,1946-04-17,Europe,Germany,1995-03-01,Europe,Germany
+Physiology or Medicine,480000,3345725,1972,Gerald M. Edelman,male,1929-07-01,North America,USA,2014-05-17,North America,USA
+Physiology or Medicine,148822,4227898,1939,Gerhard Domagk,male,1895-10-30,Europe,Poland,1964-04-24,Europe,Germany
+Physiology or Medicine,2500000,4645689,1988,Gertrude B. Elion,female,1918-01-23,North America,USA,1999-02-21,North America,USA
+Physiology or Medicine,146115,2914528,1947,Gerty Cori,female,1896-08-15,Europe,Czech Republic,1957-10-26,North America,USA
+Physiology or Medicine,800000,2988048,1979,Godfrey N. Hounsfield,male,1919-08-28,Europe,United Kingdom,2004-08-12,Europe,United Kingdom
+Physiology or Medicine,9000000,9000000,2019,Gregg L. Semenza,male,1956-07-12,North America,USA,,,
+Physiology or Medicine,7900000,10049186,1999,Günter Blobel,male,1936-05-21,Europe,Poland,2018-02-18,North America,USA
+Physiology or Medicine,350000,3052326,1968,H. Gobind Khorana,male,1922-01-09,Asia,India,2011-11-09,North America,USA
+Physiology or Medicine,10000000,12034660,2002,H. Robert Horvitz,male,1947-05-08,North America,USA,,,
+Physiology or Medicine,725000,2898454,1978,Hamilton O. Smith,male,1931-08-23,North America,USA,,,
+Physiology or Medicine,175293,2567769,1953,Hans Krebs,male,1900-08-25,Europe,Germany,1981-11-22,Europe,United Kingdom
+Physiology or Medicine,159917,4997406,1935,Hans Spemann,male,1869-06-27,Europe,Germany,1941-09-12,Europe,Germany
+Physiology or Medicine,10000000,10926573,2008,Harald zur Hausen,male,1936-03-11,Europe,Germany,,,
+Physiology or Medicine,3000000,5242311,1989,Harold E. Varmus,male,1939-12-18,North America,USA,,,
+Physiology or Medicine,123691,2520876,1943,Henrik Dam,male,1895-02-21,Europe,Denmark,1976-04-17,Europe,Denmark
+Physiology or Medicine,121841,2510460,1944,Herbert S. Gasser,male,1888-07-05,North America,USA,1963-05-11,North America,USA
+Physiology or Medicine,121524,2503929,1946,Hermann J. Muller,male,1890-12-21,North America,USA,1967-04-05,North America,USA
+Physiology or Medicine,630000,3404179,1975,Howard M. Temin,male,1934-12-10,North America,USA,1994-02-09,North America,USA
+Physiology or Medicine,190214,2681588,1955,Hugo Theorell,male,1903-07-06,Europe,Sweden,1982-08-15,Europe,Sweden
+Physiology or Medicine,139800,7084459,1908,Ilya Mechnikov,male,1845-05-15,Europe,Ukraine,1916-07-15,Europe,France
+Physiology or Medicine,140859,7767960,1904,Ivan Pavlov,male,1849-09-14,Europe,Russia,1936-02-27,Europe,Russia
+Physiology or Medicine,3000000,5242311,1989,J. Michael Bishop,male,1936-02-22,North America,USA,,,
+Physiology or Medicine,10000000,11711430,2005,J. Robin Warren,male,1937-06-11,Oceania,Australia,,,
+Physiology or Medicine,10000000,10958504,2009,Jack W. Szostak,male,1952-11-09,Europe,United Kingdom,,,
+Physiology or Medicine,282000,2782895,1965,Jacques Monod,male,1910-02-09,Europe,France,1976-05-31,Europe,France
+Physiology or Medicine,8000000,8365867,2013,James E. Rothman,male,1950-11-03,North America,USA,,,
+Physiology or Medicine,9000000,9000000,2018,James P. Allison,male,1948-08-07,North America,USA,,,
+Physiology or Medicine,257220,2836985,1962,James Watson,male,1928-04-06,North America,USA,,,
+Physiology or Medicine,880000,2889667,1980,Jean Dausset,male,1916-10-19,Europe,France,2009-06-06,Europe,Spain
+Physiology or Medicine,9000000,9176183,2017,Jeffrey C. Hall,male,1945-05-03,North America,USA,,,
+Physiology or Medicine,116960,3273134,1926,Johannes Fibiger,male,1867-04-23,Europe,Denmark,1928-01-30,Europe,Denmark
+Physiology or Medicine,10000000,12034660,2002,John E. Sulston,male,1942-03-27,Europe,United Kingdom,2018-03-06,,
+Physiology or Medicine,181647,2640218,1954,John F. Enders,male,1897-02-10,North America,USA,1985-09-08,North America,USA
+Physiology or Medicine,114935,3169164,1923,John Macleod,male,1876-09-06,Europe,Scotland,1935-03-16,Europe,Scotland
+Physiology or Medicine,8000000,8379888,2014,John O'Keefe,male,1939-11-18,North America,USA,,,
+Physiology or Medicine,1150000,3102518,1982,John R. Vane,male,1927-03-29,Europe,United Kingdom,2004-11-19,Europe,United Kingdom
+Physiology or Medicine,4000000,6329114,1990,Joseph E. Murray,male,1919-04-01,North America,USA,2012-11-26,North America,USA
+Physiology or Medicine,121841,2510460,1944,Joseph Erlanger,male,1874-01-05,North America,USA,1965-12-05,North America,USA
+Physiology or Medicine,1800000,3843964,1985,Joseph L. Goldstein,male,1940-04-18,North America,USA,,,
+Physiology or Medicine,214559,2646698,1958,Joshua Lederberg,male,1925-05-23,North America,USA,2008-02-02,North America,USA
+Physiology or Medicine,10000000,10545557,2011,Jules A. Hoffmann,male,1941-08-02,Europe,Luxembourg,,,
+Physiology or Medicine,133127,2377268,1919,Jules Bordet,male,1870-06-13,Europe,Belgium,1961-04-06,Europe,Belgium
+Physiology or Medicine,400000,3177966,1970,Julius Axelrod,male,1912-05-30,North America,USA,2004-12-29,North America,USA
+Physiology or Medicine,126501,3593778,1927,Julius Wagner-Jauregg,male,1857-03-07,Europe,Austria,1940-09-27,Europe,Austria
+Physiology or Medicine,172947,5066807,1930,Karl Landsteiner,male,1868-06-14,Europe,Austria,1943-06-26,North America,USA
+Physiology or Medicine,510000,3331882,1973,Karl von Frisch,male,1886-11-20,Europe,Austria,1982-06-12,Europe,Germany
+Physiology or Medicine,320000,2843602,1967,Keffer Hartline,male,1903-12-22,North America,USA,1983-03-17,North America,USA
+Physiology or Medicine,273000,2828039,1964,Konrad Bloch,male,1912-01-21,Europe,Poland,2000-10-15,North America,USA
+Physiology or Medicine,510000,3331882,1973,Konrad Lorenz,male,1903-11-07,Europe,Austria,1989-02-27,Europe,Austria
+Physiology or Medicine,10000000,12295082,2001,Leland Hartwell,male,1939-10-30,North America,USA,,,
+Physiology or Medicine,10000000,11762861,2004,Linda B. Buck,female,1947-01-29,North America,USA,,,
+Physiology or Medicine,7600000,9713701,1998,Louis J. Ignarro,male,1941-05-31,North America,USA,,,
+Physiology or Medicine,10000000,10926573,2008,Luc Montagnier,male,1932-08-18,Europe,France,,,
+Physiology or Medicine,10000000,11301989,2007,Mario R. Capecchi,male,1937-10-06,Europe,Italy,,,
+Physiology or Medicine,350000,3052326,1968,Marshall W. Nirenberg,male,1927-04-10,North America,USA,2010-01-15,North America,USA
+Physiology or Medicine,7000000,9249471,1994,Martin Rodbell,male,1925-12-01,North America,USA,1998-12-07,North America,USA
+Physiology or Medicine,257220,2836985,1962,Maurice Wilkins,male,1916-12-15,Oceania,New Zealand,2004-10-05,Europe,United Kingdom
+Physiology or Medicine,375000,3181561,1969,Max Delbrück,male,1906-09-04,Europe,Germany,1981-03-09,North America,USA
+Physiology or Medicine,167612,2686090,1951,Max Theiler,male,1899-01-30,Africa,South Africa,1972-08-11,North America,USA
+Physiology or Medicine,8000000,8379888,2014,May-Britt Moser,female,1963-01-04,Europe,Norway,,,
+Physiology or Medicine,9000000,9176183,2017,Michael Rosbash,male,1944-03-07,North America,USA,,,
+Physiology or Medicine,1800000,3843964,1985,Michael S. Brown,male,1941-04-13,North America,USA,,,
+Physiology or Medicine,9000000,9176183,2017,Michael W. Young,male,1949-03-28,North America,USA,,,
+Physiology or Medicine,1650000,3782090,1984,Niels K. Jerne,male,1911-12-23,Europe,United Kingdom,1994-10-07,Europe,France
+Physiology or Medicine,141358,7795478,1903,Niels Ryberg Finsen,male,1860-12-15,Europe,Faroe Islands (Denmark),1904-09-24,Europe,Denmark
+Physiology or Medicine,510000,3331882,1973,Nikolaas Tinbergen,male,1907-04-15,Europe,the Netherlands,1988-12-21,Europe,United Kingdom
+Physiology or Medicine,10000000,11301989,2007,Oliver Smithies,male,1925-06-23,Europe,United Kingdom,2017-01-10,North America,USA
+Physiology or Medicine,159850,4913422,1936,Otto Loewi,male,1873-06-03,Europe,Germany,1961-12-25,North America,USA
+Physiology or Medicine,122483,3145967,1922,Otto Meyerhof,male,1884-04-12,Europe,Germany,1951-10-06,North America,USA
+Physiology or Medicine,173206,5238085,1931,Otto Warburg,male,1883-10-08,Europe,Germany,1970-08-01,Europe,Germany
+Physiology or Medicine,10000000,11807305,2003,Paul C. Lauterbur,male,1929-05-06,North America,USA,2007-03-27,North America,USA
+Physiology or Medicine,139800,7084459,1908,Paul Ehrlich,male,1854-03-14,Europe,Poland,1915-08-20,Europe,Germany
+Physiology or Medicine,9000000,11333109,2000,Paul Greengard,male,1925-12-11,North America,USA,2019-04-13,North America,USA
+Physiology or Medicine,159773,3056881,1948,Paul Müller,male,1899-01-12,Europe,Switzerland,1965-10-12,Europe,Switzerland
+Physiology or Medicine,7400000,9490424,1996,Peter C. Doherty,male,1940-10-15,Oceania,Australia,,,
+Physiology or Medicine,225987,2664941,1960,Peter Medawar,male,1915-02-28,South America,Brazil,1987-10-02,Europe,United Kingdom
+Physiology or Medicine,300000,2784653,1966,Peyton Rous,male,1879-10-05,North America,USA,1970-02-16,North America,USA
+Physiology or Medicine,164304,3050198,1950,Philip S. Hench,male,1896-02-28,North America,USA,1965-03-30,North America,Jamaica
+Physiology or Medicine,6700000,9044276,1993,Phillip A. Sharp,male,1944-06-06,North America,USA,,,
+Physiology or Medicine,320000,2843602,1967,Ragnar Granit,male,1900-10-30,Europe,Finland,1991-03-12,Europe,Sweden
+Physiology or Medicine,10000000,10545557,2011,Ralph M. Steinman,male,1943-01-14,North America,Canada,2011-09-30,,
+Physiology or Medicine,8000000,8365867,2013,Randy W. Schekman,male,1948-12-30,North America,USA,,,
+Physiology or Medicine,630000,3404179,1975,Renato Dulbecco,male,1914-02-22,Europe,Italy,2012-02-19,North America,USA
+Physiology or Medicine,10000000,11762861,2004,Richard Axel,male,1946-07-02,North America,USA,,,
+Physiology or Medicine,6700000,9044276,1993,Richard J. Roberts,male,1943-09-06,Europe,United Kingdom,,,
+Physiology or Medicine,2000000,4098361,1986,Rita Levi-Montalcini,female,1909-04-22,Europe,Italy,2012-12-30,Europe,Italy
+Physiology or Medicine,146900,7062500,1914,Robert Bárány,male,1876-04-22,Europe,Austria,1936-04-08,Europe,Sweden
+Physiology or Medicine,7600000,9713701,1998,Robert F. Furchgott,male,1916-06-04,North America,USA,2009-05-19,North America,USA
+Physiology or Medicine,10000000,10819388,2010,Robert G. Edwards,male,1925-09-27,Europe,United Kingdom,2013-04-10,Europe,United Kingdom
+Physiology or Medicine,138089,7615202,1905,Robert Koch,male,1843-12-11,Europe,Germany,1910-05-27,Europe,Germany
+Physiology or Medicine,350000,3052326,1968,Robert W. Holley,male,1922-01-28,North America,USA,1993-02-11,North America,USA
+Physiology or Medicine,480000,3345725,1972,Rodney R. Porter,male,1917-10-08,Europe,United Kingdom,1985-09-06,Europe,United Kingdom
+Physiology or Medicine,700000,3080986,1977,Roger Guillemin,male,1924-01-11,Europe,France,,,
+Physiology or Medicine,1000000,2929688,1981,Roger W. Sperry,male,1913-08-20,North America,USA,1994-04-17,North America,USA
+Physiology or Medicine,7400000,9490424,1996,Rolf M. Zinkernagel,male,1944-01-06,Europe,Switzerland,,,
+Physiology or Medicine,141847,8059489,1902,Ronald Ross,male,1857-05-13,Asia,India,1932-09-16,Europe,United Kingdom
+Physiology or Medicine,700000,3080986,1977,Rosalyn Yalow,female,1921-07-19,North America,USA,2011-05-30,North America,USA
+Physiology or Medicine,375000,3181561,1969,Salvador E. Luria,male,1912-08-13,Europe,Italy,1991-02-06,North America,USA
+Physiology or Medicine,138536,7421571,1906,Santiago Ramón y Cajal,male,1852-05-01,Europe,Spain,1934-10-17,Europe,Spain
+Physiology or Medicine,8000000,8384572,2015,Satoshi &#332;mura,male,1935-07-12,Asia,Japan,,,
+Physiology or Medicine,171135,2546652,1952,Selman A. Waksman,male,1888-07-22,Europe,Ukraine,1973-08-16,North America,USA
+Physiology or Medicine,220678,2704387,1959,Severo Ochoa,male,1905-09-24,Europe,Spain,1993-11-01,Europe,Spain
+Physiology or Medicine,8000000,8361204,2012,Shinya Yamanaka,male,1962-09-04,Asia,Japan,,,
+Physiology or Medicine,121333,2499993,1945,Sir Alexander Fleming,male,1881-08-06,Europe,Scotland,1955-03-11,Europe,United Kingdom
+Physiology or Medicine,400000,3177966,1970,Sir Bernard Katz,male,1911-03-26,Europe,Germany,2003-04-20,Europe,United Kingdom
+Physiology or Medicine,171753,5279293,1932,Sir Charles Sherrington,male,1857-11-27,Europe,United Kingdom,1952-03-04,Europe,United Kingdom
+Physiology or Medicine,225987,2664941,1960,Sir Frank Macfarlane Burnet,male,1899-09-03,Oceania,Australia,1985-08-31,Oceania,Australia
+Physiology or Medicine,172760,4907955,1929,Sir Frederick Hopkins,male,1861-06-20,Europe,United Kingdom,1947-05-16,Europe,United Kingdom
+Physiology or Medicine,159850,4913422,1936,Sir Henry Dale,male,1875-06-09,Europe,United Kingdom,1968-07-23,Europe,United Kingdom
+Physiology or Medicine,121333,2499993,1945,Sir Howard Florey,male,1898-09-24,Oceania,Australia,1968-02-21,Europe,United Kingdom
+Physiology or Medicine,2500000,4645689,1988,Sir James W. Black,male,1924-06-14,Europe,Scotland,2010-03-21,,
+Physiology or Medicine,8000000,8361204,2012,Sir John B. Gurdon,male,1933-10-02,Europe,United Kingdom,,,
+Physiology or Medicine,265000,2839286,1963,Sir John Eccles,male,1903-01-27,Oceania,Australia,1997-05-02,Europe,Switzerland
+Physiology or Medicine,10000000,11301989,2007,Sir Martin J. Evans,male,1941-01-01,Europe,United Kingdom,,,
+Physiology or Medicine,10000000,12295082,2001,Sir Paul Nurse,male,1949-01-25,Europe,United Kingdom,,,
+Physiology or Medicine,9000000,9000000,2019,Sir Peter J. Ratcliffe,male,1954-05-14,Europe,United Kingdom,,,
+Physiology or Medicine,10000000,11807305,2003,Sir Peter Mansfield,male,1933-10-09,Europe,United Kingdom,2017-02-08,,
+Physiology or Medicine,7500000,9572839,1997,Stanley B. Prusiner,male,1942-05-28,North America,USA,,,
+Physiology or Medicine,2000000,4098361,1986,Stanley Cohen,male,1922-11-17,North America,USA,2020-02-05,North America,USA
+Physiology or Medicine,1150000,3102518,1982,Sune K. Bergström,male,1916-01-10,Europe,Sweden,2004-08-15,Europe,Sweden
+Physiology or Medicine,2175000,4274764,1987,Susumu Tonegawa,male,1939-09-05,Asia,Japan,,,
+Physiology or Medicine,10000000,12034660,2002,Sydney Brenner,male,1927-01-13,Africa,South Africa,2019-04-05,Asia,Singapore
+Physiology or Medicine,164304,3050198,1950,Tadeus Reichstein,male,1897-07-20,Europe,Poland,1996-08-01,Europe,Switzerland
+Physiology or Medicine,9000000,9000000,2018,Tasuku Honjo,male,1942-01-27,Asia,Japan,,,
+Physiology or Medicine,139800,7084459,1909,Theodor Kocher,male,1841-08-25,Europe,Switzerland,1917-07-27,Europe,Switzerland
+Physiology or Medicine,8000000,8365867,2013,Thomas C. Südhof,male,1955-12-22,Europe,Germany,,,
+Physiology or Medicine,170332,5413093,1933,Thomas H. Morgan,male,1866-09-25,North America,USA,1945-12-04,North America,USA
+Physiology or Medicine,181647,2640218,1954,Thomas H. Weller,male,1915-06-15,North America,USA,2008-08-23,North America,USA
+Physiology or Medicine,10000000,12295082,2001,Tim Hunt,male,1943-02-19,Europe,United Kingdom,,,
+Physiology or Medicine,1000000,2929688,1981,Torsten N. Wiesel,male,1924-06-03,Europe,Sweden,,,
+Physiology or Medicine,8000000,8384572,2015,Tu Youyou,female,1930-12-30,Asia,China,,,
+Physiology or Medicine,400000,3177966,1970,Ulf von Euler,male,1905-02-07,Europe,Sweden,1983-03-09,Europe,Sweden
+Physiology or Medicine,156290,2930438,1949,Walter Hess,male,1881-03-17,Europe,Switzerland,1973-08-12,Europe,Switzerland
+Physiology or Medicine,725000,2898454,1978,Werner Arber,male,1929-06-03,Europe,Switzerland,,,
+Physiology or Medicine,200123,2699501,1956,Werner Forssmann,male,1904-08-29,Europe,Germany,1979-06-01,Europe,Germany
+Physiology or Medicine,116719,3218355,1924,Willem Einthoven,male,1860-05-21,Asia,Indonesia,1927-09-29,Europe,the Netherlands
+Physiology or Medicine,8000000,8384572,2015,William C. Campbell,male,1930-06-28,Europe,Ireland,,,
+Physiology or Medicine,9000000,9000000,2019,William G. Kaelin Jr,male,1957-11-23,North America,USA,,,
+Physiology or Medicine,162608,5167627,1934,William P. Murphy,male,1892-02-06,North America,USA,1987-10-09,North America,USA
+Physiology or Medicine,8000000,8301051,2016,Yoshinori Ohsumi,male,1945-02-09,Asia,Japan,,,
